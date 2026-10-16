@@ -1,7 +1,7 @@
 # Hi there, I'm Kostas! 👋
 
 <!-- Optional Banner: You can design one on Canva or use Capsule Render -->
-<img src="https://vercel.app" width="100%" />
+<img src="[https://vercel.app](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7sPxi-324yB2vzik9mgNpIHQ8rXO8uywA4Akqlw9c3Hhb3VtXAFAjqnr&s=10)" width="100%" />
 
 ## 🚀 About Me
 I am a passionate young Programmer, 
