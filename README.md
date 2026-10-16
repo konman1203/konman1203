@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kostas! 👋
 
 <!-- Optional Banner: You can design one on Canva or use Capsule Render -->
 <img src="https://vercel.app" width="100%" />
@@ -13,13 +13,6 @@ I am a passionate young Programmer,
 
 ---
 
-## 📊 GitHub Metrics
-<!-- Replace 'your-github-username' with your actual username in the URLs below -->
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
 <!-- Optional Contribution Snake Game Widget -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
@@ -28,3 +21,5 @@ I am a passionate young Programmer,
 </picture>
 
 ---
+
+🫡
